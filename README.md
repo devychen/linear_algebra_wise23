@@ -10,5 +10,6 @@
 7. [EA=U](https://youtu.be/Nxs_OARoUgE?si=iZkOl0X4zKKmw3-i)
 8. [Special solutions](https://www.youtube.com/watch?v=4x3sa4wO6Ig)
 9. [Determinantds of 3x3 Example](https://www.youtube.com/watch?v=eYjSu_xXUUQ)
+10. [Find the rank Example](https://www.youtube.com/watch?v=Sc7OY62lQ9U)
 
 [A useful online calculator](https://matrixcalc.org/vectors.html)
