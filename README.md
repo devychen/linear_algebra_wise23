@@ -11,5 +11,6 @@
 8. [Special solutions](https://www.youtube.com/watch?v=4x3sa4wO6Ig)
 9. [Determinantds of 3x3 Example](https://www.youtube.com/watch?v=eYjSu_xXUUQ)
 10. [Find the rank Example](https://www.youtube.com/watch?v=Sc7OY62lQ9U)
+11. [LDU](https://www.youtube.com/watch?v=y9ame4BGEvE)
 
 [A useful online calculator](https://matrixcalc.org/vectors.html)
